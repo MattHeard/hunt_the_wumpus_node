@@ -1,0 +1,18 @@
+{
+  "name": "hunt_the_wumpus",
+  "version": "1.0.0",
+  "description": "Hunt the Wumpus is a text-based adventure game developed by Gregory Yob in 1973. In the game, the player moves through a series of connected caves, arranged in a dodecahedron, as they hunt a monster named the Wumpus.",
+  "main": "hunt.js",
+  "scripts": {
+    "test": "jest",
+    "hunt": "node hunt.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
