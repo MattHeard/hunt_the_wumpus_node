@@ -15,6 +15,4 @@ and has a few vulnerabilities.
 
 Can you update "Hunt the Wumpus" to the latest version of `lodash`? Please?
 
-## Links
-
 [1]: https://rosettacode.org/mw/index.php?title=Hunt_The_Wumpus/Javascript&oldid=203235
